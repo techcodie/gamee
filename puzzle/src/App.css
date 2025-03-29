@@ -17,6 +17,9 @@ body {
     max-width: 600px;
     font-family: "Press Start 2P", cursive;
   }
+  button{
+    font-family: "Press Start 2P", cursive;
+  }
   
   
   .puzzle-container {
